@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "あの夏のいつかは",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-11T06:48:07.768866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの夏のいつかは (feat",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_あの夏のいつかは_(feat_Luna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの夏のいつかは",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/02_あの夏のいつかは_Luna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの夏のいつかは 2022 Ver.",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/03_あの夏のいつかは_2022_Ver._Luna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの夏のいつかは",
+      "artist": "*Luna/初音ミク",
+      "has_synced": true,
+      "path": "select/04_あの夏のいつかは_Luna_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あの夏のいつかは",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/05_あの夏のいつかは_Luna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あの夏のいつかは (feat. 初音ミク)",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/06_あの夏のいつかは_(feat._初音ミク)_Luna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あの夏のいつかは (feat. ゆある)",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/07_あの夏のいつかは_(feat._ゆある)_Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの夏のいつかは",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_あの夏のいつかは_Nornis.txt"
+    }
+  ]
+}
